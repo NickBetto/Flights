@@ -1,0 +1,20 @@
+8:35
+Argentina
+GW3438
+13
+On Time
+9:44
+Argentina
+GW6382
+17
+On Time
+10:33
+Argentina
+GW4579 
+08
+Delayed
+13:22
+Argentina
+GW2238
+01
+Cancelled
